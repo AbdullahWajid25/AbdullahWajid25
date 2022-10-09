@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahWajid25
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++ Programming Language
+- 🌱 I’m currently learning Web 3.0 and Metaverse
 - 📫 How to reach me : abdullah2008wajid@gmail.com
 
 <!---
